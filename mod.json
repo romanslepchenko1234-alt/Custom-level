@@ -1,0 +1,13 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "*",
+		"android": "*",
+		"mac": "*"
+	},
+	"version": "v1.0.0",
+	"id": "yourname.custom-level-row",
+	"name": "Custom Level Row",
+	"developer": "yourname",
+	"description": "Добавляет в ряд официальных уровней плюс: вводишь ID, и уровень игрока появляется рядом с официальными."
+}
